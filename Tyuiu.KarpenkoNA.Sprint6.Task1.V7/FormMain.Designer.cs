@@ -159,6 +159,7 @@ namespace Tyuiu.KarpenkoNA.Sprint6.Task1.V7
             this.textBoxResult_KNA.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.textBoxResult_KNA.Size = new System.Drawing.Size(227, 346);
             this.textBoxResult_KNA.TabIndex = 1;
+            this.textBoxResult_KNA.TextChanged += new System.EventHandler(this.textBoxResult_KNA_TextChanged);
             // 
             // textBoxDone_KNA
             // 

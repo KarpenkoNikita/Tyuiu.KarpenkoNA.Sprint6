@@ -60,5 +60,10 @@ namespace Tyuiu.KarpenkoNA.Sprint6.Task1.V7
         {
             MessageBox.Show("Таск 1 выполнил студент группы АСОиУб-23-2 Карпенко Никита Андреевич", "Сообщение");
         }
+
+        private void textBoxResult_KNA_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
